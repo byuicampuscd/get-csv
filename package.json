@@ -1,0 +1,11 @@
+{
+  "name": "get-csv",
+  "version": "1.0.0",
+  "description": "No description",
+  "main": "getCSV.js",
+  "scripts": {
+    "test": "NA"
+  },
+  "author": "Joshua McKinney",
+  "license": "UNLICENSED",
+}
